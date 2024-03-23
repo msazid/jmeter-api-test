@@ -23,3 +23,6 @@
 </ul>
 
 # Structure and Screen shots
+
+<h4>Main Structure</h4>
+![structure](https://github.com/msazid/jmeter-api-test/assets/70015894/85e42cf5-aedd-4a14-ac55-2551fb180e4c)
