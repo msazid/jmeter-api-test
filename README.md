@@ -21,3 +21,5 @@
   <li>Adding Assertions: Set up assertions, like JSON Assertion, to verify the correctness of responses.</li>
   <li>Adding CSV Data Set Config: Incorporate a CSV data set config to parameterize test data, allowing for iteration over multiple inputs.</li>
 </ul>
+
+# Structure and Screen shots
