@@ -25,4 +25,6 @@
 # Structure and Screen shots
 
 <h4>Main Structure</h4>
-![structure](https://github.com/msazid/jmeter-api-test/assets/70015894/85e42cf5-aedd-4a14-ac55-2551fb180e4c)
+
+![structure](https://github.com/msazid/jmeter-api-test/assets/70015894/c366b998-de7c-4036-9d89-6c620a09f15a)
+
