@@ -28,3 +28,9 @@
 
 ![structure](https://github.com/msazid/jmeter-api-test/assets/70015894/c366b998-de7c-4036-9d89-6c620a09f15a)
 
+<h4>Test Report</h4>
+
+![TEST_REPORT](https://github.com/msazid/jmeter-api-test/assets/70015894/3c5facd3-a13b-440b-af8d-795eb7062704)
+
+![TEST_REPORT-2](https://github.com/msazid/jmeter-api-test/assets/70015894/7be47b1b-b13a-4c77-91fe-3620885098c9)
+
