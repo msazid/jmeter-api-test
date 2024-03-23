@@ -8,7 +8,7 @@
   <li>VS Code</li>
 </ul>
 
-<h3>Jmeter guide</h3>
+<h3>Project guide</h3>
 <ul>
   <li>Adding Thread Group: Begin by creating a thread group to simulate user behavior.</li>
   <li>Adding HTTP Request Sampler: Add an HTTP request sampler to represent the API endpoint you want to test.</li>
