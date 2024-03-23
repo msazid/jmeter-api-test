@@ -29,6 +29,8 @@
 ![structure](https://github.com/msazid/jmeter-api-test/assets/70015894/c366b998-de7c-4036-9d89-6c620a09f15a)
 
 <h4>Test Report</h4>
+<P>By using this command bellow the test report has generated</P>>
+<p>run "jmeter -n -t .\file-name.jmx -l .\file-name.jtl -e -o REST_API_REPORT" (file name must not have any spaces)</p>
 
 ![TEST_REPORT](https://github.com/msazid/jmeter-api-test/assets/70015894/3c5facd3-a13b-440b-af8d-795eb7062704)
 
